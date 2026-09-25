@@ -1,6 +1,6 @@
 ---
 title: "Mi Primera Publicacion del Blog"
-pubDate: 2026-09-2026
+pubDate: 2026-09-25
 description: "Esta es la primera publicacion de mi nuevo blog de Astro."
 author: "Aprendiz de Astro"
 image:
