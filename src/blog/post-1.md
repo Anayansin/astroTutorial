@@ -1,13 +1,14 @@
 ---
-title: 'Mi Primera Publicacion del Blog'
-pubDate: 2022-07-01
-description: 'Esta es la primera publicacion de mi nuevo blog de Astro.'
-author: 'Aprendiz de Astro'
+title: "Mi Primera Publicacion del Blog"
+pubDate: 2026-09-2026
+description: "Esta es la primera publicacion de mi nuevo blog de Astro."
+author: "Aprendiz de Astro"
 image:
-    url: 'https://docs.astro.build/assets/rose.webp' 
-    alt: 'El logo de Astro sobre un fondo oscuro con un resplandor rosa.'
+  url: "https://docs.astro.build/assets/rose.webp"
+  alt: "El logo de Astro sobre un fondo oscuro con un resplandor rosa."
 tags: ["astro", "blogging", "aprendiendo en publico"]
 ---
+
 Bienvenido a mi _nuevo blog_ sobre aprender Astro! Aqui voy a compartir mi camino de aprendizaje mientras construyo un nuevo sitio web.
 
 ## Lo que he logrado
@@ -20,4 +21,4 @@ Bienvenido a mi _nuevo blog_ sobre aprender Astro! Aqui voy a compartir mi camin
 
 ## Que sigue
 
-Voy a terminar el tutorial de Astro, y despues seguir agregando mas publicaciones. Mantente pendiente.
+Voy a terminar el tutorial de Astro, y despues seguir agregando mas publicaciones. xd

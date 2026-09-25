@@ -3,10 +3,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 const pageTitle = "Sobre Mi";
 
 const identity = {
-  firstName: "Sarah",
-  country: "Canada",
-  occupation: "Redactora Tecnica",
-  hobbies: ["fotografia", "observacion de aves", "beisbol"],
+  firstName: "Yaretzi",
+  country: "Mexico",
+  occupation: "Estudiante",
+  hobbies: ["fotografia", "Leer", "Jugar"],
 };
 
 const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Escribir Documentacion"];
@@ -20,7 +20,7 @@ const fontWeight = "bold";
 const textCase = "uppercase";
 ---
 <BaseLayout pageTitle={pageTitle}>
-  <h2>... y mi nuevo sitio de Astro!</h2>
+  <h2>...pipipipipp</h2>
 
   <p>Estoy trabajando con el tutorial introductorio de Astro. Esta es la segunda pagina de mi sitio web, y es la primera que construi yo mismo!</p>
 
@@ -45,11 +45,11 @@ const textCase = "uppercase";
     {skills.map((skill) => <li class="skill">{skill}</li>)}
   </ul>
 
-  {happy && <p>Estoy feliz de estar aprendiendo Astro!</p>}
+  {happy && <p>Yo queria estudiar cine</p>}
 
-  {finished && <p>Termine este tutorial!</p>}
+  {finished && <p>Termine este tutorial</p>}
 
-  {goal === 3 ? <p>Mi meta es terminarlo en 3 dias.</p> : <p>Mi meta no son 3 dias.</p>}
+  {goal === 3 ? <p>Mi meta es terminarlo antes de las 5</p> : <p>Mi meta no son 3 dias.</p>}
 
   <style is:global define:vars={{skillColor, fontWeight, textCase}}>
     h1 {
